@@ -11,10 +11,15 @@ basic concepts in using git:
 
 8. get latest remote repo files using "git pull" in the main folder
 9. if you have messed up your local repo 
-     and just want to pull latest from remote repo use 
+     and just want to pull latest from remote repo use
+      
         "git reset --hard" then "git pull"
-        this will lose any changes
+        (this will lose any changes!)
+
         if you want to save ur changes first you can use 
         "git stash" then the hard reset
+
         later if you want to apply your changes use 
         "git stash apply"
+
+
