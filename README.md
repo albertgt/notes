@@ -4,7 +4,7 @@ basic concepts in using git:
 1. create a repo yourself 
 2. clone this repo using 
     ````
-    "git clone http://url.to.your.repo"
+    git clone http://url.to.your.repo
     ````
 3. create your own file in your local repo folder 
 4. add this new file to git using 
