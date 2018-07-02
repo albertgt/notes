@@ -14,7 +14,7 @@ basic concepts in using git:
     ````
 5. commit this new file using 
     ````
-    git commit -m "i am a comment" 
+    git commit -am "i am a comment" 
     ````
 6. push this new file to the remote repo using 
     ````
