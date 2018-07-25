@@ -7,3 +7,4 @@
     i (for case-insensitive)
     r (for recursive)
     l (only list filenames as result)
+    . (for current folder and its subfolders)
