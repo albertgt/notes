@@ -4,3 +4,6 @@
     ````
     grep -irl "text to find" .
     ````
+    i (for case-insensitive)
+    r (for recursive)
+    l (only list filenames as result)
